@@ -77,6 +77,8 @@ li a {
 }
 .main-body-center-left {
   width: 25%;
+  position: relative;
+  left: 8%;
 }
 .p1l {
   padding-top: 100px;
@@ -178,7 +180,7 @@ li a {
   justify-content: space-evenly;
   position: absolute;
   top: 400px;
-  left: 155px;
+  left: 10%;
 }
 .logopng {
   width: 100px;
