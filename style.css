@@ -319,11 +319,12 @@ li a {
   padding-top: 205px;
 }
 .protfolio-links-images-Daraz {
-  margin: 5px;
-  width: 40%;
+  margin: 10px;
+  width: 30%;
   box-shadow: 0px 0px 3px black;
   padding-left: 20px;
   background-color: rgb(30, 37, 37);
+  border-radius: 10px;
 }
 .protfolio-links-images-Daraz-text1 {
   color: gold;
@@ -336,7 +337,7 @@ li a {
   font-size: 20px;
 }
 .protfolio-links-images-Daraz-image {
-  width: 98%;
+  width: 95%;
   height: 400px;
   border-radius: 10px;
 }
