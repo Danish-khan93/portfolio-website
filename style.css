@@ -150,22 +150,22 @@ li a {
 .fb {
   background-color: gold;
   border-radius: 50%;
-  border: 2px solid black;
+  border: 5px solid black;
 }
 .insta {
   background-color: gold;
   border-radius: 50%;
-  border: 2px solid black;
+  border: 5px solid black;
 }
 .twitter {
   background-color: gold;
   border-radius: 50%;
-  border: 2px solid black;
+  border: 5px solid black;
 }
 .github {
   background-color: gold;
   border-radius: 50%;
-  border: 2px solid black;
+  border: 5px solid black;
 }
 
 /* body center end*/
