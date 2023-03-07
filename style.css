@@ -103,13 +103,15 @@ li a {
 }
 .main-body-center-center {
   width: 30%;
+  display: flex;
+  justify-content: center;
 }
 
 .dpimage {
   text-align: center;
   margin-top: 20px;
   width: 350px;
-  height: 350;
+  height: 350px;
   border-radius: 50%;
   background-color: rgb(30, 37, 37);
 }
